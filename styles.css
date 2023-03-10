@@ -41,6 +41,10 @@ a,
   text-align: center;
 }
 
+footer p {
+  display: inline-block;
+}
+
 .card h1 {
   margin: 0 0 4px 0;
   padding: 0 13px;
